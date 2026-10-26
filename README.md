@@ -112,7 +112,7 @@ Spotted a mistake, an unclear sentence, or a better example? Please open an issu
 
 These notes are written in my own words as personal revision while studying Python. They are not official course material and are not affiliated with or endorsed by any university. They do not include any assessed work or answers to graded assignments.
 
-Built by **[Your Name]**. Find me on [GitHub](https://github.com/your-username) and [LinkedIn](https://www.linkedin.com/in/your-profile).
+Built by **[SHIVA KRISHNA REDDY ANDEM]**. Find me on [GitHub](https://github.com/Shivakrishnareddy-03) and [LinkedIn](https://www.linkedin.com/in/shiva-krishna-reddy-andem-215792266/).
 
 ## License
 
